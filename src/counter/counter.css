@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.counter{
+    margin-top: 6rem;
+    text-align: center;
+}
+button{
+    background-color: rgb(10, 10, 40);
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-size: 1rem;
+    border-radius: 1rem;
+
+}
+h1{
+    margin-bottom: 2rem;
+}
+span{
+font-size: 2rem;
+margin-left: 1rem;
+margin-right: 1rem;
+}
